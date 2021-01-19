@@ -1,0 +1,5 @@
+pyaudio 
+SpeechRecognition
+nltk
+beautifulsoup4
+regex

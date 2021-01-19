@@ -1,0 +1,17 @@
+{
+  "nome": "osvaldo",
+  "acoes": [
+      {
+          "nome": "horas",
+          "local": [
+              "Brasil"
+          ]
+      },
+      {
+        "nome": "horário",
+        "local": [
+            "Brasil"
+        ]
+    }
+  ]
+}
